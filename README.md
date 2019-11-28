@@ -2,7 +2,9 @@
 
 ![Calaca Libre De KEINOS](TitleImage.png)
 
-The Open Data of KEINOS' CT scanned head 2D images and 3D skull models.
+The Open Data of KEINOS' CT scanned 2D head images and 3D skull models.
+
+Used for my art project but feel free to use it for your creation.
 
 ```text
 .
