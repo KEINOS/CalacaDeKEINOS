@@ -6,13 +6,16 @@ The Open Data of KEINOS' CT scanned 2D head images and 3D skull models.
 
 Used for my art project but feel free to use it for your creation.
 
+- [Download from the Assets](https://github.com/KEINOS/CalacaDeKEINOS/releases)
+
 ```text
 .
 ├── LICENSE    // MIT. But do what ever you want with your creation.
 ├── README.md  // This file
 ├── 2D         // The original CT scanned data of KEINOS' head
 │   ├── DCM      // OsiriX DICOM format (Axial 4.0)
-│   └── TIFF     // TIFF format
+│   ├── TIFF     // TIFF format
+│   └── PNG      // PNG format
 ├── 3D
 │   ├── DXF    // Drawing eXchange Format
 │   ├── FBX    // Filmbox FBX v2012/v2015 format
