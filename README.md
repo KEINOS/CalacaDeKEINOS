@@ -4,7 +4,7 @@
 
 The Open Data of KEINOS' CT scanned 2D head images and 3D skull models.
 
-Used for my art project but feel free to use it for your creation.
+Used for my art project, but feel free to use it what ever the fun you want.
 
 - [Download from the Assets](https://github.com/KEINOS/CalacaDeKEINOS/releases)
 
